@@ -29,7 +29,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0 30px;
+  margin: 0;
   border-radius: 15px;
   box-shadow: 10px 15px 20px var(--box-shadow);
 }
@@ -71,5 +71,12 @@ body {
 
   a {
     text-decoration: none;
+  }
+}
+
+/* Media Queries */
+@media (min-width: 375px) and (max-width: 1440px) {
+  .card-container {
+    margin: 0 25px;
   }
 }
