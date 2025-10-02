@@ -20,8 +20,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add live site URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://tranquil-souffle-4ed6f9.netlify.app/](https://tranquil-souffle-4ed6f9.netlify.app/)
+- Live Site URL: [https://tranquil-souffle-4ed6f9.netlify.app/](https://tranquil-souffle-4ed6f9.netlify.app/)
 
 ## My process
 
@@ -39,3 +39,4 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ## Author
 
 - Website - [Arvin Buid](https://www.arvinbuid.com/)
+- Frontend Mentor - [Arvin Buid](https://www.frontendmentor.io/profile/arvinbuid)
